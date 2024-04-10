@@ -1,18 +1,14 @@
-# API-specificatie-template-repository
-Deze repository is een template repository die als basis voor het genereren van nieuwe API-specificatie of Groep van API-specificaties repository gebruikt kan worden.
-Een VNG-R GitHub administrator kan de link [_Use this template_](https://github.com/VNG-Realisatie/API-specificatie-template-repository/generate) gebruiken om een kopie van de onderliggende template aan te maken die vervolgens aangepast en uitgebreid kan worden.
+# Referentiemodel Stelsel van Gemeentelijke Basisgegevens
+De gemeentelijke gegevenshuishouding omvat een diversiteit aan objecten, gegevens daarvan en relaties daartussen. In de praktijk mondt dit uit in een 
+groot aantal eilanden met eigen specificaties die uitwisseling, koppeling, meervoudig en ‘gemeentebreed’ gebruik van gegevens belemmeren. Eenduidigheid 
+is daarom dringend gewenst. De kern hiervan wordt gevormd door de landelijke basisgegevens en de gemeentelijke kerngegevens. Het Referentiemodel Stelsel 
+van Gemeentelijke Basisgegevens (RSGB) specificeert het informatie- of gegevensmodel van deze basis- en kerngegevens. Het RSGB wil eraan bijdragen dat 
+gemeenten en daarmee samenwerkende organisaties de kern van hun gegevenshuishouding, de basis- en kerngegevens, eenmalig onderhouden en meervoudig gebruiken.
 
-De op die wijze gecreëerde kopie bevat een standaard content en structuur die door de eigenaar van de repository kan worden aangepast afhankelijk van de wensen en functie van de repository.
-* Indien de repository niet bedoeld is om een OAS in te beheren kan de folder 'specificaties' worden verwijderd;
-* Ongewenste issue-report types kunnen uit de folder '.github/ISSUE_TEMPLATE' worden verwijderd;
-* Indien geen feature bestanden (rules) gewenst zijn dan kan de folder 'features' worden verwijderd;
-* De folder 'test' kan worden verwijderd als er in de repository nooit test bestanden zullen worden opgenomen;
-* De 'docs' folder kan in zijn geheel worden verwijderd als er vanuit de repository geen GitHub Pages site gegenereerd hoeft te worden;
-* Als een GitHub Pages site wel gewenst is kan de structuur in de 'docs' folder naar wens worden aangepast:
-  * verwijderen van ongewenste folders;
-  * creëren van folders;
-  * vullen van de diverse Markdown bestanden;
-  * crëeren van Markdown bestanden;
-  * plaatsen van illustratieve bestanden;
-  * configureren van het '_config.yml' bestand.
-* Tevens kan de repository dan direct of op een later tijdstip worden geconfigureerd voor het genereren van een GitHub Pages site.
+Het referentiemodel is een vertaling en een uitbreiding van het landelijk stelsel van basisregistraties met het oog op de gemeentelijke informatiebehoefte. 
+Daarin is nadrukkelijk behoefte aan samenhang tussen de objecten en gegevens uit die basisregistraties èn behoefte aan specifieke gemeentelijke kerngegevens. 
+Het RSGB is dan ook meer dan de optelsom van de landelijke basisregistraties. Op onderdelen verschilt het dan ook van het landelijk stelsel. Wel zijn de 
+landelijke basisregistraties bijna volledig opgenomen in het referentiemodel.
+
+<!-- De meest actuele versie van het RSGB is versie 2.1 ('in gebruik'). Deze is echter niet beschikbaar als PDF en is ook niet geïmplementeerd in StUF-BG. Lijkt me goed om daar geen aandacht meer aan te besteden. -->
+De actuele versie van het RSGB is versie 2.02 ('in gebruik'). Dat is ook de versie die is geïmplementeerd in [StUF-BG 3.10](https://vng-realisatie.github.io/StUF-BG/). Het RSGB is één van de Informatiemodellen van de Gegevens- en berichtenarchitectuur.
