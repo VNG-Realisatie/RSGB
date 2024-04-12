@@ -1,6 +1,6 @@
 ---
 layout: page-with-side-nav
-title: Introductie Informatiemodel Basis- en Kerngegevens (RSGB)
+title: Introductie Referentiemodel Stelsel van Gemeentelijke Basisgegevens (RSGB)
 ---
 
 # Introductie
