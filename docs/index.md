@@ -16,9 +16,10 @@ Daarin is nadrukkelijk behoefte aan samenhang tussen de objecten en gegevens uit
 Het RSGB is dan ook meer dan de optelsom van de landelijke basisregistraties. Op onderdelen verschilt het dan ook van het landelijk stelsel. Wel zijn de 
 landelijke basisregistraties bijna volledig opgenomen in het referentiemodel.
 
+## Status
 <!-- De meest actuele versie van het RSGB is versie 2.1 ('in gebruik'). Deze is echter niet beschikbaar als PDF en is ook niet geïmplementeerd in StUF-BG. Lijkt me goed om daar geen aandacht meer aan te besteden. -->
 De actuele versie van het RSGB is versie 2.02 ('in gebruik'). Dat is ook de versie die is geïmplementeerd in [StUF-BG 3.10](https://vng-realisatie.github.io/StUF-BG/). 
-Het RSGB is één van de Informatiemodellen van de Gegevens- en berichtenarchitectuur.
+Het RSGB is één van de Informatiemodellen van de Gegevens- en berichtenarchitectuur en wordt niet meer doorontwikkeld.
 
 ## Totstandkoming RSGB
 De invoering van een stelsel van basisregistraties bij de gehele overheid is zonder twijfel een van de meest ingrijpende ontwikkelingen waar gemeenten mee te 
