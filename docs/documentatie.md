@@ -27,7 +27,7 @@ folder_files:
 
 # Documentatie
 
-## StUF-BG 3.10
+## RSGB 2.02
 
 <table>
 	<thead>
@@ -37,34 +37,7 @@ folder_files:
 	</thead>
 	<tbody>
 		{% for i in page.folder_files %}
-			{% if i.group == 310 %} 
-				<tr>
-					<td>
-					  <a href="{{ i.path | base_url }}">
-						{{ i.title }}
-					  </a>
-					</td>
-					<td>{{ i.versie }}</td>
-					<td>{{ i.status }}</td>
-					<td>{{ i.omschrijving }}</td>
-					<td>{{ i.datum }}</td>
-				</tr>
-			{% endif %} 
-		{% endfor %}
-	</tbody>
-</table>
-
-## StUF-BG 2.04
-
-<table>
-	<thead>
-		<tr>
-			<th>Document</th><th>Versie</th><th>Beheerstatus</th><th>Beschrijving</th><th>Versiedatum</th>
-		</tr>
-	</thead>
-	<tbody>
-		{% for i in page.folder_files %}
-			{% if i.group == 204 %} 
+			{% if i.group == 202 %} 
 				<tr>
 					<td>
 					  <a href="{{ i.path | base_url }}">
