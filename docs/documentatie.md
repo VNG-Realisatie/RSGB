@@ -1,52 +1,103 @@
 ---
 layout: page-with-side-nav
-title: Documentatie Xxxxxx
+title: Documentatie StUF-BG
+folder_files:
+  - title: Bg0310 20211208 patch32 (zip)
+    path: documenten/Bg0310_20211208_patch32.zip
+    group: 310
+    versie: 32
+    status: Definitief
+    omschrijving: Bevat alle documentatie, schema's en WSDL's behorende bij patch 32 van StUF-BG 3.10 inclusief alle bij de StUF 3.01 onderlaag horende zaken. Tevens bevat de zip het overzicht van de er in verwerkte onderhoudsverzoeken en de lijst met de bij StUF-BG 3.10 horende extraElementen.
+    datum: 20211208
+  - title: Extra-elementen voor bg0310 (zip)
+    path: documenten/Extra-elementen_voor_bg0310.zip
+    group: 310
+    versie: 3-12-2021
+    status: Definitief
+    omschrijving: 
+    datum: 20211208
+  - title:  KeuzenVerStUFfing RSGB (pdf)
+    path: documenten/KeuzenVerStUFfing_RSGB.pdf
+    group: 310
+    versie: 1.14
+    status: Definitief
+    omschrijving: 
+    datum: 20211203
+  - title: Bg0204 20120701 patch13 (zip)
+    path: documenten/Bg0204_20120701_patch13.zip
+    group: 204
+    versie: 13
+    status: Definitief
+    omschrijving: 
+    datum: 20211208
+  - title: Extra-elementen voor bg0204 (zip)
+    path: documenten/Extra-elementen_voor_bg0204.zip
+    group: 204
+    versie: 3-12-2021
+    status: Definitief
+    omschrijving: 
+    datum: 20211208
+  - title: GFO Basisgegevens (pdf)
+    path: documenten/GFO_Basisgegevens.pdf
+    group: 204
+    versie: 
+    status: 
+    omschrijving: 
+    datum: 
 ---
 
 # Documentatie
 
-## Inhoudsopgave
-* [Algemeen](#algemeen)
-* [Uitgangspunten](#uitgangspunten)
-* [Cases](#cases)
-* [Besluiten](#besluiten)
-* [Aanbevelingen](#aanbevelingen)
-* [Vraagstukken](#vraagstukken)
+## StUF-BG 3.10
 
-[Dit bevat (een link naar) alle aanvullende documentatie. Documentatie dus die geen onderdeel uitmaakt van de API-specificatie.]
+<table>
+	<thead>
+		<tr>
+			<th>Document</th><th>Versie</th><th>Beheerstatus</th><th>Beschrijving</th><th>Versiedatum</th>
+		</tr>
+	</thead>
+	<tbody>
+		{% for i in page.folder_files %}
+			{% if i.group == 310 %} 
+				<tr>
+					<td>
+					  <a href="{{ i.path | base_url }}">
+						{{ i.title }}
+					  </a>
+					</td>
+					<td>{{ i.versie }}</td>
+					<td>{{ i.status }}</td>
+					<td>{{ i.omschrijving }}</td>
+					<td>{{ i.datum }}</td>
+				</tr>
+			{% endif %} 
+		{% endfor %}
+	</tbody>
+</table>
 
-## Algemeen
+## StUF-BG 2.04
 
-[Naar boven](./documentatie)
-
-[Overzicht waarin aangegeven wordt welke API-specificatie documentatie aanwezig is, hoe deze opgezet is en zaken zoals onderlinge samenhang. 
- In het geval van de vorm en structuur van documentatie-artefacten kan bijv. gebruik gemaakt worden van coderingen. 
- Indien dat het geval is wordt daarover op deze pagina uitleg gegeven.]
-
-## Uitgangspunten
-
-[Naar boven](./documentatie)
-
-
-## Cases
-
-[Naar boven](./documentatie)
-
-
-## Besluiten
-
-[Naar boven](./documentatie)
-
-
-## Aanbevelingen
-
-[Naar boven](./documentatie)
-
-
-## Vraagstukken
-
-[Naar boven](./documentatie)
-
-
-
-  
+<table>
+	<thead>
+		<tr>
+			<th>Document</th><th>Versie</th><th>Beheerstatus</th><th>Beschrijving</th><th>Versiedatum</th>
+		</tr>
+	</thead>
+	<tbody>
+		{% for i in page.folder_files %}
+			{% if i.group == 204 %} 
+				<tr>
+					<td>
+					  <a href="{{ i.path | base_url }}">
+						{{ i.title }}
+					  </a>
+					</td>
+					<td>{{ i.versie }}</td>
+					<td>{{ i.status }}</td>
+					<td>{{ i.omschrijving }}</td>
+					<td>{{ i.datum }}</td>
+				</tr>
+			{% endif %} 
+		{% endfor %}
+	</tbody>
+</table>
