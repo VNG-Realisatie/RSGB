@@ -3,14 +3,14 @@ layout: page-with-side-nav
 title: Documentatie StUF-BG
 folder_files:
   - title:  RSG Basisgegevens 202 deel I (pdf)
-    path: documenten/RSG_Basisgegevens_2.02_deel_II_(in_gebruik).pdf
+    path: documenten/RSG_Basisgegevens_2.02_deel_I_(in_gebruik).pdf
     group: 202
     versie: 2.02
     status: Definitief
     omschrijving: 
     datum: april 2018
   - title:  RSG Basisgegevens 202 deel II (pdf)
-    path: documenten/RSG_Basisgegevens_2.02_deel_I_(in_gebruik).pdf
+    path: documenten/RSG_Basisgegevens_2.02_deel_II_(in_gebruik).pdf
     group: 202
     versie: 2.02
     status: Definitief
