@@ -8,21 +8,21 @@ folder_files:
     versie: 2.02
     status: Definitief
     omschrijving: 
-    datum: 
+    datum: april 2018
   - title:  RSG Basisgegevens 202 deel II (pdf)
     path: documenten/RSG_Basisgegevens_2.02_deel_I_(in_gebruik).pdf
     group: 202
     versie: 2.02
     status: Definitief
     omschrijving: 
-    datum: 
+    datum: april 2018
   - title:   Wijzigingen RSGB 2.02 (pdf)
     path: documenten/Wijzigingen_RSGB_2.02.pdf
     group: 202
     versie: 2.02
     status: Definitief
     omschrijving: 
-    datum: 
+    datum: april 2018
 ---
 
 # Documentatie
