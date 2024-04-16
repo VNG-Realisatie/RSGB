@@ -11,7 +11,7 @@ Het "Referentiemodel Stelsel van Gemeentelijke Basisgegevens (RSGB) is een gemee
 De actuele versie van het RSGB is versie 2.02 ('in gebruik'). Dat is ook de versie die is geïmplementeerd in [StUF-BG 3.10](https://vng-realisatie.github.io/StUF-BG/). 
 Het RSGB is één van de Informatiemodellen van de Gegevens- en berichtenarchitectuur en wordt niet meer doorontwikkeld.
 
-De RSGB versies 2.1 en 3.0 zijn teruggetrokken.
+RSGB 3.0 is teruggetrokken.
 
 ## Totstandkoming RSGB
 De invoering van een stelsel van basisregistraties bij de gehele overheid is zonder twijfel een van de meest ingrijpende ontwikkelingen waar gemeenten mee te 
