@@ -8,7 +8,6 @@ title: Introductie Referentiemodel Stelsel van Gemeentelijke Basisgegevens (RSGB
 Het "Referentiemodel Stelsel van Gemeentelijke Basisgegevens (RSGB) is een gemeentelijke standaard die helpt bij het structureren en uitwisselen van basisgegevens binnen de overheid. Het RSGB biedt een gestandaardiseerd model voor het vastleggen en uitwisselen van essentiële informatie, zoals adressen, gebouwen, wegen, en andere gemeentelijke gegevens. Het doel van het gemeentelijk RSGB is om consistentie, interoperabiliteit en efficiëntie te bevorderen binnen de gemeentelijke informatievoorziening, zodat gegevens eenvoudig kunnen worden uitgewisseld tussen verschillende gemeentelijke systemen en organisaties.
 
 ## Status
-<!-- De meest actuele versie van het RSGB is versie 2.1 ('in gebruik'). Deze is echter niet beschikbaar als PDF en is ook niet geïmplementeerd in StUF-BG. Lijkt me goed om daar geen aandacht meer aan te besteden. -->
 De actuele versie van het RSGB is versie 2.02 ('in gebruik'). Dat is ook de versie die is geïmplementeerd in [StUF-BG 3.10](https://vng-realisatie.github.io/StUF-BG/). 
 Het RSGB is één van de Informatiemodellen van de Gegevens- en berichtenarchitectuur en wordt niet meer doorontwikkeld.
 
