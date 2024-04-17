@@ -49,3 +49,4 @@ Basisregistratie Grootschalige Topografie. Daarvoor gebruikten we het document:
 Het RSGB beschrijft de structuur en semantiek van (uit te wisselen) basis- en kerngegevens. Om deze gegevens daadwerkelijk uit te kunnen wisselen, zijn berichten nodig. 
 Hiertoe is het RSGB uitgewerkt in de [berichtenstandaard Sectormodel Basisgegevens](https://vng-realisatie.github.io/StUF-BG/) (StUF-BG). Basis- en kerngegegevens zijn 
 tevens opgenomen in enkele, [StUF-BG-gerelateerde, koppelvlakken](https://vng-realisatie.github.io/Standaarden/Basis-en-kerngegevens).
+
