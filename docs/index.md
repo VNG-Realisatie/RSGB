@@ -3,7 +3,7 @@ layout: page-with-side-nav
 title: Introductie Referentiemodel Stelsel van Gemeentelijke Basisgegevens (RSGB)
 ---
 
-# Introductie
+# Introductie RSGB
 
 Het "Referentiemodel Stelsel van Gemeentelijke Basisgegevens (RSGB) is een gemeentelijke standaard die helpt bij het structureren en uitwisselen van basisgegevens binnen de overheid. Het RSGB biedt een gestandaardiseerd model voor het vastleggen en uitwisselen van essentiële informatie, zoals adressen, gebouwen, wegen, en andere gemeentelijke gegevens. Het doel van het gemeentelijk RSGB is om consistentie, interoperabiliteit en efficiëntie te bevorderen binnen de gemeentelijke informatievoorziening, zodat gegevens eenvoudig kunnen worden uitgewisseld tussen verschillende gemeentelijke systemen en organisaties.
 
